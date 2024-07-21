@@ -40,9 +40,9 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ## GitHub Stats
-![Yujun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Yujun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenYujunjks&show_icons=true&theme=tokyonight)
+
 
 ## Projects
 - [Project 1](https://github.com/your-github-username/project1): Description of project 1.
