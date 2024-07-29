@@ -14,8 +14,8 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 - 💬 Ask me about anything related to blockchain, DeFi, or software engineering. I'd be happy to help.
 
 ## Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/brucechenyujun/))
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github-username](https://github.com/ChenYujunjks))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/brucechenyujun/])
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][https://github.com/ChenYujunjks]]
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](btc37730@gmall.com)
 
 ## Technologies and Tools
