@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse background in software engineering, with a focus on blockchain technologies, decentralized finance (DeFi), and various programming languages and frameworks. I'm passionate about learning and implementing innovative solutions in the tech world.
+Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse background in software engineering, with a focus on blockchain technologies and various programming languages and frameworks. I'm passionate about learning and implementing innovative solutions in the tech world.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
