@@ -9,7 +9,7 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 - 👨🏻‍💻 I’m currently working at KeeperAI as a software engineer intern.
 - 📚 Learning and exploring the basics of Next.js, Gin, Gorm, and Solidity.
-- 🌐 Interested in researching and innovating in Injective, Celestia blockchain, and the Cosmos ecosystem.
+- 🌐 Interested in researching and innovating in Sui and Movement blockchain, and the Cosmos ecosystem.
 - ✍️ Blogging about my projects and learnings.
 - 💬 Ask me about anything related to blockchain, DeFi, or software engineering. I'd be happy to help.
 
