@@ -7,7 +7,7 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 ## Current Status Quo
 
-- 👨🏻‍💻 I’m currently working at KeeperAI as a software engineer intern.
+- 👨🏻‍💻 I’m currently studying NYU Courant and doing part-time software engineer and UI/UX.
 - 📚 Learning and exploring the basics of Next.js, Gin, Gorm, and Solidity.
 - 🌐 Interested in researching and innovating in Sui and Movement blockchain, and the Sui ecosystem.
 - ✍️ Blogging about my projects and learnings.
