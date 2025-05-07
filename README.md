@@ -24,9 +24,10 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-3B82F6?style=for-the-badge&logoColor=white)
 
 ### Libraries & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -34,14 +35,13 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ![gorm](https://img.shields.io/badge/gorm-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![testify](https://img.shields.io/badge/testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Tools
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ## GitHub Stats
@@ -49,16 +49,10 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 
 ## Projects
-- [Project 1](https://github.com/your-github-username/project1): Description of project 1.
-- [Project 2](https://github.com/your-github-username/project2): Description of project 2.
-- [Project 3](https://github.com/your-github-username/project3): Description of project 3.
+- [Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)：线上扑克局记录与数据分析的全栈应用。
+- [Flight Management System](https://github.com/ChenYujunjks/flight_management_sys)：航班信息管理与统计系统，包含后端 Go + Gin + GORM 与前端 Next.js。
+- [NYUSH Capstone Project](https://github.com/ChenYujunjks/NYUSH_Capstone_Project)：去中心化消息应用（DApp）与相关智能合约的毕业设计。
+- 
 
-## Blog
-Check out my latest blog posts at [My Blog](https://your-blog-url.com).
-
-## Hobbies and Interests
-- 🏃 Biohacking and Calisthenics
-- 🎮 Gaming
-- 📖 Reading about new technologies
 
 Thank you for visiting my profile. Feel free to reach out and connect with me!
