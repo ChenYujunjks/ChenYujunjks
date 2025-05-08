@@ -9,9 +9,7 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 - 👨🏻‍💻 I’m currently studying NYU Courant and doing part-time software engineer and UI/UX.
 - 📚 Learning and exploring the basics of Next.js, Gin, Gorm, and Solidity.
-- 🌐 Interested in researching and innovating in Sui and Movement blockchain, and the Sui ecosystem.
-- ✍️ Blogging about my projects and learnings.
-- 💬 Ask me about anything related to blockchain, DeFi, or software engineering. I'd be happy to help.
+- 🌐 Interested in researching and innovating in Sui and Movement blockchain, and Sui ecosystem.
 
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/brucechenyujun/]
@@ -48,7 +46,6 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ![Yujun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenYujunjks&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYujunjks&layout=compact&langs_count=8&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChenYujunjks&theme=tokyonight&hide_border=true)
-![Metrics](https://metrics.lecoq.io/ChenYujunjks?template=classic&languages=1&isocalendar=1&activity=1&followup=1&introduction=1)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ChenYujunjks&theme=tokyonight&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
