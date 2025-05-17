@@ -47,14 +47,9 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 
 ## Projects
-- [Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)：线上扑克局记录与数据分析的全栈应用。
-- [Flight Management System](https://github.com/ChenYujunjks/flight_management_sys)：航班信息管理与统计系统，包含后端 Go + Gin + GORM 与前端 Next.js。
-- [NYUSH Capstone Project](https://github.com/ChenYujunjks/NYUSH_Capstone_Project)：去中心化消息应用（DApp）与相关智能合约的毕业设计。
-
-## Projects
-- **[Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)** – A full-stack application for recording online poker sessions and performing data analytics.
-- **[Flight Management System](https://github.com/ChenYujunjks/flight_management_sys)** – A flight-information management and statistics platform, with a Go (Gin + GORM) back end and a Next.js front end.
-- **[NYUSH Capstone Project](https://github.com/ChenYujunjks/NYUSH_Capstone_Project)** – A decentralized messaging DApp and related smart contracts developed as a senior capstone at NYU Shanghai.
+- **[Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)** – A full-stack application for recording online poker sessions and performing data analytics, 线上扑克局记录与数据分析的全栈应用。
+- **[Flight Management System](https://github.com/ChenYujunjks/flight_management_sys)** – A flight-information management and statistics platform, with a Go (Gin + GORM) back end and a Next.js front end, 航班信息管理与统计系统，包含后端 Go + Gin + GORM 与前端 Next.js。
+- **[NYUSH Capstone Project](https://github.com/ChenYujunjks/NYUSH_Capstone_Project)** – A decentralized messaging DApp and related smart contracts developed as a senior capstone at NYU Shanghai, 去中心化消息应用（DApp）与相关智能合约的毕业设计。
 - 
 
 
