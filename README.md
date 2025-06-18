@@ -49,8 +49,9 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ## Projects
 - **[Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)** – A full-stack application for recording online poker sessions and performing data analytics, 线上扑克局记录与数据分析的全栈应用。
 - **[NYUSH Capstone Project](https://github.com/ChenYujunjks/NYUSH_Capstone_Project)** – A decentralized messaging DApp and related smart contracts developed as a senior capstone at NYU Shanghai, 去中心化消息应用（DApp）与相关智能合约的毕业设计。
+- **[GO DataStructure Algorithm Fundamental Simulation](https://github.com/ChenYujunjks/go-dsa)** - A hands-on Go project covering textbook-level data structures and algorithms, built from scratch with idiomatic code and complete test coverage. 用GO语言完整实现所有基础数据结构重构。
 - **[Flight Management System](https://github.com/ChenYujunjks/flight_management_sys)** – A flight-information management and statistics platform, with a Go (Gin + GORM) back end and a Next.js front end, 航班信息管理与统计系统，包含后端 Go + Gin + GORM 与前端 Next.js。
-- 
+- **[Interest trpc API Integration](https://github.com/ChenYujunjks/todolist_deploy)** - A full-stack tRPC project that integrates external APIs like Coinbase and TodoList, featuring interactive data visualizations and a modular UI.
 
 
 
