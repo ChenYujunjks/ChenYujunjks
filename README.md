@@ -43,8 +43,7 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ## GitHub Stats
 ![Yujun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenYujunjks&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYujunjks&layout=compact&langs_count=8&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChenYujunjks&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChenYujunjks&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Projects
 - **[Poker Tracker](https://github.com/ChenYujunjks/poker_tracker)** – A full-stack application for recording online poker sessions and performing data analytics, 线上扑克局记录与数据分析的全栈应用。
