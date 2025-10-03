@@ -9,7 +9,6 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 
 - 👨🏻‍💻 I’m currently studying NYU Courant and doing part-time software engineer and UI/UX.
 - 📚 Learning and exploring the basics of Next.js, Gin, Gorm, and Solidity.
-- 🌐 Interested in researching and innovating in Sui and Movement blockchain, and Sui ecosystem.
 
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/brucechenyujun/]
@@ -23,8 +22,8 @@ Hi, I'm Yujun Chen, a senior computer science student at NYU. I have a diverse b
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Sui](https://img.shields.io/badge/Sui-3B82F6?style=for-the-badge&logoColor=white)
+
+
 
 ### Libraries & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
